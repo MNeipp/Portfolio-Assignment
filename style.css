@@ -1,0 +1,64 @@
+html {
+    min-height: 100%;
+    background: linear-gradient(#486573,#9c8848,#486573 );
+}
+body {
+    background-color: transparent;
+}
+.card-profile {
+    width: 340px;
+    margin: 50px auto;
+    background-color: #22495a;
+    border-radius: 0;
+    border: solid 1px black;
+    box-shadow: 1em 1em 2em rgba(24, 34, 38, .2);
+}
+
+.card-profile .card-img-profile {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: -95px;
+    margin-bottom: 35px;
+    border: 5px double #e6e5e1;
+}
+.card-profile .card-title {
+    margin-bottom: 50px;
+}
+.card-profile .card-title{
+    color:#e6e5e1
+}
+.card-profile .card-title small {
+    display: block;
+    color:#e6e5e1;
+    font-size: 0.6em;
+    margin-top: 0.4em;
+}
+.card-profile .card-links {
+    margin-bottom: 25px;
+}
+.card-profile .card-links .fa {
+    margin: 0 1em;
+    font-size: 1.6em;
+}
+.card-profile .card-links .fa:focus, .card-profile .card-links .fa:hover {
+    text-decoration: none;
+}
+.card-profile .card-links .fa-linkedin {
+    color: #9c8848;
+    stroke:black;
+}
+.card-profile .card-links .fa-linkedin:hover {
+    color: #ac9650;
+}
+.card-profile .card-links .fa-file {
+    color: #9c8848;
+}
+.card-profile .card-links .fa-file:hover {
+    color: #ac9650;
+}
+.card-profile .card-links .fa-github {
+    color:  #9c8848;
+}
+.card-profile .card-links .fa-github:hover {
+    color: #ac9650;
+}
