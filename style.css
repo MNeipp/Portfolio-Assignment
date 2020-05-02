@@ -1,16 +1,11 @@
-html {
-    min-height: 100%;
-    background: linear-gradient(#486573,#9c8848,#486573 );
-}
 body {
-    background-color: transparent;
+    background: linear-gradient(#486573,#9c8848,#486573 );
 }
 .card-profile {
     width: 340px;
     margin: 50px auto;
     background-color: #22495a;
-    border-radius: 0;
-    border: solid 1px black;
+    border: groove 2px #e6e5e1;
     box-shadow: 1em 1em 2em rgba(24, 34, 38, .2);
 }
 
