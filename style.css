@@ -1,6 +1,7 @@
 body {
-    background: linear-gradient(#486573 40%,#9c8848 70% ,#486573 );
+    background: linear-gradient(#486573 40%,#9c8848);
 }
+
 .card-profile {
     width: 340px;
     margin: 50px auto;
